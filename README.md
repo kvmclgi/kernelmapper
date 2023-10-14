@@ -78,6 +78,3 @@ Only supports injection of a x64 DLL into a x64 process
 
 The hooks placed on `ntoskrnl.exe` are not HVCI compatible
 
-## Credits
-
-kdmapper by [z175](https://github.com/z175) and [TheCruZ](https://github.com/TheCruZ)
